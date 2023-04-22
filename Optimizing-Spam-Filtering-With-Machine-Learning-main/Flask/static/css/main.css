@@ -1,0 +1,34 @@
+body {
+  background-image: url("img/mat.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: fixed;
+}
+
+.nav-item {
+  color: pink;
+}
+
+.nav-item:hover {
+  color: white;
+}
+
+.body {
+  margin-top: 8%;
+}
+
+.content {
+  margin-top: 8%;
+}
+
+.text {
+  color: rgb(0, 0, 54);
+  font-size: 40px;
+  margin-left: 10%;
+  margin-top: 2%;
+}
+
+.pg {
+  margin-top: 2%;
+  margin-left: 10%;
+}

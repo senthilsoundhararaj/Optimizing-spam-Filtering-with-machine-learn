@@ -1,0 +1,22 @@
+body {
+  background-image: url("img/ab-01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.list {
+  list-style-type: square;
+}
+
+.nav-item {
+  color: pink;
+}
+
+.nav-item:hover {
+  color: white;
+}
+
+.isomatric {
+  margin-left: 15%;
+}

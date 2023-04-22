@@ -1,0 +1,40 @@
+body {
+  background-image: url("img/dark.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.navbar-light {
+  position: fixed;
+  top: 1%;
+  width: 100%;
+  color: white;
+}
+
+.text-reset {
+  margin-left: 10px;
+  padding: 1px;
+  font-size: 20px;
+}
+
+.nav-item {
+  color: pink;
+  padding: 12px;
+}
+
+.nav-item:hover {
+  color: white;
+  width: max-content;
+}
+
+label {
+  color: rgb(255, 52, 85);
+}
+
+.card {
+  margin-top: 4%;
+}
+.output {
+  margin-top: 3%;
+}
